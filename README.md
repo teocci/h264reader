@@ -66,13 +66,13 @@ When submitting code, please make every effort to follow existing conventions an
 
 Based on the h264bitstream written by Alex Izvorski <aizvorski@gmail.com> and Alex Giladi <alex.giladi@gmail.com>
 
-* [h264bitstream][1]
+* [h264bitstream Sourceforge Project Page][1]
 
 ## License
 
 The code supplied here is covered under the MIT Open Source License..
 
 
-[1]: Sourceforge Project Page: http://sourceforge.net/projects/h264bitstream
+[1]: http://sourceforge.net/projects/h264bitstream
 
 
